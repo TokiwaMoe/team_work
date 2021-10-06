@@ -22,7 +22,7 @@
 using namespace DirectX;
 using namespace Microsoft::WRL;
 
-//いか
+//いかを追加
 
 //ウィンドウプロシージャの定義
 LRESULT WindowProc(HWND hwnd, UINT msg, WPARAM wparam, LPARAM lparam)
